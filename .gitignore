@@ -1,3 +1,4 @@
 *.csv
 submits/
 data_process/
+.ipynb_checkpoints/
